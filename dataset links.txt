@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/shuvokumarbasak2030/drug-pharma-new-dataset
+
+https://github.com/mcallara/pharma-sales-data
+
+https://www.kaggle.com/datasets/snowyowl22/pharmacy-dataset?select=SUPPLIER.csv
+
+https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/README.md#dataset
+
+https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
+
+
+
